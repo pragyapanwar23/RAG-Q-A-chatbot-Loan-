@@ -18,9 +18,12 @@ This chatbot uses:
 
 Dataset source: [Kaggle - Loan Approval Prediction](https://www.kaggle.com/datasets/sonalisingh1411/loan-approval-prediction)
 
-Used file: `Training Dataset.csv` (pre-cleaned version)
-
 > Ensure that your dataset is cleaned (no nulls, all numerical and categorical fields handled).
+
+---
+
+## Streamlit app link
+https://loanragqnabot.streamlit.app/
 
 ---
 
